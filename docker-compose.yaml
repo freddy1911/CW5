@@ -1,0 +1,9 @@
+version: "3.3"
+
+services:
+  api:
+    build:
+      context: .
+    image: freddy1911/CW5
+    ports:
+      - 8080:80

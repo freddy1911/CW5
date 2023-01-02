@@ -1,0 +1,1 @@
+EQUIPMENT = './data/equipment.json'
